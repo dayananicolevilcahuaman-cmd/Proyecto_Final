@@ -6,7 +6,8 @@ enfocado en las dinámicas del mercado laboral peruano utilizando microdatos de 
 Encuesta Permanente de Empleo Nacional (EPEN 2025) publicada por el Instituto Nacional de 
 Estadística e Informática (INEI). 
 
-# El objetivo principal es evaluar la brecha de ingresos, la prevalencia de la informalidad 
+# El objetivo 
+principal es evaluar la brecha de ingresos, la prevalencia de la informalidad 
 laboral y las disparidades socioeconómicas según sexo, edad y área geográfica.
 
 # Hallazgos y Estadísticas Clave
