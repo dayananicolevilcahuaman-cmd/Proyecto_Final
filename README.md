@@ -33,9 +33,9 @@ Mujeres: Ingreso promedio de S/. 1,608.00 (Mediana: S/. 1,296.00).
 2. Horas vs. Ingreso: Dispersión con ajuste lineal según sexo.
 3. Composición de Empleo: Conteo absoluto de ocupación por género y tipo de empleo.
 4. Densidad de Edad: Distribución etaria de trabajadores formales e informales.
-5. Ingreso por Hora Efectiva: Tarifa horaria ajustada (S/./hora).
+5. Ingreso por Hora Efectiva: Tarifa horaria ajustada (S//hora).
 6. Brecha Territorial: Ingresos del ámbito Urbano vs. Rural.
-Estructura del Repositorio
+# Estructura del Repositorio
 
 ```text
 ├── data/
