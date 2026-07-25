@@ -7,8 +7,7 @@ Encuesta Permanente de Empleo Nacional (EPEN 2025) publicada por el Instituto Na
 Estadística e Informática (INEI). 
 
 # El objetivo 
-principal es evaluar la brecha de ingresos, la prevalencia de la informalidad 
-laboral y las disparidades socioeconómicas según sexo, edad y área geográfica.
+El objetivo principal de este proyecto es examinar las diferencias en los ingresos por hora efectiva trabajada dentro del mercado laboral peruano (EPEN 2025 - INEI), evaluando cómo la informalidad afecta de manera diferente a hombres y mujeres.
 
 # Hallazgos y Estadísticas Clave
 Resumen Macro del Mercado Laboral
@@ -28,7 +27,7 @@ Los trabajadores formales perciben en promedio un 108% más de ingresos que los 
 Hombres: Ingreso promedio de S/. 1,671.00 (Mediana: S/. 1,450.00).
 Mujeres: Ingreso promedio de S/. 1,608.00 (Mediana: S/. 1,296.00).
 
-# Resumen Visual de los Paneles:
+# Resumen de los graficos:
 1. Distribución de Ingresos: Comparativa boxplot entre empleo formal e informal.
 2. Horas vs. Ingreso: Dispersión con ajuste lineal según sexo.
 3. Composición de Empleo: Conteo absoluto de ocupación por género y tipo de empleo.
@@ -37,14 +36,14 @@ Mujeres: Ingreso promedio de S/. 1,608.00 (Mediana: S/. 1,296.00).
 6. Brecha Territorial: Ingresos del ámbito Urbano vs. Rural.
 # Estructura del Repositorio
 
-```text
+(```text
 ├── data/
 │   └── EPEN 2025 BD_Publicacion Dpto_0.csv   # Microdatos INEI
 ├── figures/
 │   └── collage_graficos.png                  # Dashboard final generado
 ├── scripts/
 │   └── EDA_INEI.R                            # Script principal en R
-└── README.md                                 # Documentación del proyecto
+└── README.md                                 # Documentación del proyecto)
 
 # Parte 2: Profundización y Conclusiones
 
