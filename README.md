@@ -34,16 +34,6 @@ Mujeres: Ingreso promedio de S/. 1,608.00 (Mediana: S/. 1,296.00).
 4. Densidad de Edad: Distribución etaria de trabajadores formales e informales.
 5. Ingreso por Hora Efectiva: Tarifa horaria ajustada (S//hora).
 6. Brecha Territorial: Ingresos del ámbito Urbano vs. Rural.
-# Estructura del Repositorio
-
-(```text
-├── data/
-│   └── EPEN 2025 BD_Publicacion Dpto_0.csv   # Microdatos INEI
-├── figures/
-│   └── collage_graficos.png                  # Dashboard final generado
-├── scripts/
-│   └── EDA_INEI.R                            # Script principal en R
-└── README.md                                 # Documentación del proyecto)
 
 # Parte 2: Profundización y Conclusiones
 
@@ -53,8 +43,6 @@ cuando se analiza el empleo formal frente al informal?
 
 # Visualización del Análisis Final
 [Análisis Final de Brecha por Hora](figures/grafico_analisis_final.png)
-
-# Tablas Estadísticas e Indicadores
 
 # Tabla 1
 # Resumen General de Indicadores Laborales por Grupo
@@ -78,4 +66,16 @@ cuando se analiza el empleo formal frente al informal?
 
 2. Las mujeres que trabajan en la informalidad tienen el horario laboral semanal más largo de toda la muestra (50.5 horas a la semana, 5.1 horas más que los hombres del mismo sector), pero su tarifa horaria media es la menor del mercado (S/. 5.25 por hora). Esto muestra que en el sector informal trabajar más horas no logra compensar la desigualdad de ingresos, lo cual crea una situación de extrema vulnerabilidad y precariedad.
 
-4. Los resultados demuestran que, si las estrategias de formalización convencionales no incluyen un enfoque de género, son insuficientes. Es necesario crear políticas enfocadas en: Promover la corresponsabilidad en las labores de cuidado no remuneradas que llevan a las mujeres a aceptar jornadas informales agotadoras. Parámetros de valor por hora efectiva: En los sectores donde la informalidad tiene una alta prevalencia, como el comercio y los servicios, es necesario regular y supervisar la equivalencia salarial por cada hora de trabajo.
+3. Los resultados demuestran que, si las estrategias de formalización convencionales no incluyen un enfoque de género, son insuficientes. Es necesario crear políticas enfocadas en: Promover la corresponsabilidad en las labores de cuidado no remuneradas que llevan a las mujeres a aceptar jornadas informales agotadoras. Parámetros de valor por hora efectiva: En los sectores donde la informalidad tiene una alta prevalencia, como el comercio y los servicios, es necesario regular y supervisar la equivalencia salarial por cada hora de trabajo.
+# Estructura del Repositorio
+(```text
+├── data/
+│   └── EPEN 2025 BD_Publicacion Dpto_0.csv   # Microdatos INEI
+├── figures/
+│   └── collage_graficos.png                  # Dashboard final generado
+├── scripts/
+│   └── EDA_INEI.R                            # Script principal en R
+└── README.md                                 # Documentación del proyecto
+├── scripts/
+│   ├── EDA.R
+│   ├── 04_analisis_final.R
