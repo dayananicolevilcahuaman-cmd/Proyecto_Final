@@ -68,7 +68,7 @@ cuando se analiza el empleo formal frente al informal?
 
 3. Los resultados demuestran que, si las estrategias de formalización convencionales no incluyen un enfoque de género, son insuficientes. Es necesario crear políticas enfocadas en: Promover la corresponsabilidad en las labores de cuidado no remuneradas que llevan a las mujeres a aceptar jornadas informales agotadoras. Parámetros de valor por hora efectiva: En los sectores donde la informalidad tiene una alta prevalencia, como el comercio y los servicios, es necesario regular y supervisar la equivalencia salarial por cada hora de trabajo.
 # Estructura del Repositorio
-(```text
+```text
 ├── data/
 │   └── EPEN 2025 BD_Publicacion Dpto_0.csv   # Microdatos INEI
 ├── figures/
